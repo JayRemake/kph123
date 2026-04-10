@@ -1,0 +1,44 @@
+payload:
+  - PROCESS-NAME,Acrobat.exe
+  - PROCESS-NAME,AcroCEF.exe
+  - PROCESS-NAME,acrotray.exe
+  - PROCESS-NAME,Adobe Audition.exe
+  - PROCESS-NAME,CEPHtmlEngine.exe
+  - PROCESS-NAME,CRWindowsClientService.exe
+  - PROCESS-NAME,Bridge.exe
+  - PROCESS-NAME,Adobe Media Encoder.exe
+  - PROCESS-NAME,CRWindowsClientService.exe
+  - PROCESS-NAME,TeamProjectsLocalHub.exe
+  - PROCESS-NAME,Photoshop.exe
+  - PROCESS-NAME,Adobe Premiere Pro.exe
+  - PROCESS-NAME,CEPHtmlEngine.exe
+  - PROCESS-NAME,CRWindowsClientService.exe
+  - PROCESS-NAME,TeamProjectsLocalHub.exe
+  - PROCESS-NAME,acad.exe
+  - PROCESS-NAME,BaiduNetdiskHost.exe
+  - PROCESS-NAME,bdcam.exe
+  - PROCESS-NAME,Bandizip.exe
+  - PROCESS-NAME,BandiView.exe
+  - PROCESS-NAME,BetterGI.exe
+  - PROCESS-NAME,cheatengine-x86_64.exe
+  - PROCESS-NAME,FFmpegFreeUI.exe
+  - PROCESS-NAME,foobar2000.exe
+  - PROCESS-NAME,unlockfps_nc.exe
+  - PROCESS-NAME,updater.exe
+  - PROCESS-NAME,bugreport.exe
+  - PROCESS-NAME,dnmultiplayer.exe
+  - PROCESS-NAME,mkvtoolnix-gui.exe
+  - PROCESS-NAME,Mp3tag.exe
+  - PROCESS-NAME,Notepad4.exe
+  - PROCESS-NAME,WINWORD.EXE
+  - PROCESS-NAME,PDFPatcher.exe
+  - PROCESS-NAME,SmartSystemMenu64.exe
+  - PROCESS-NAME,upnp.exe
+  - PROCESS-NAME,TMSpeech.exe
+  - PROCESS-NAME,UninstallTool_x64.dat
+  - PROCESS-NAME,PvZ Toolkit 1.22.0.exe
+  - PROCESS-NAME,FFRenamePro.exe
+  - PROCESS-NAME,MouseClick.exe
+  - PROCESS-NAME,WePE.exe
+  - PROCESS-NAME,Lawn.exe
+  - PROCESS-NAME,Replanted.exe
