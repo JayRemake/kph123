@@ -1,0 +1,6 @@
+payload:
+  - '+.ovodisk.com'
+  - '+.honeyhunterworld.com'
+  - '+.pvzbeta.top'
+  - '+.pvz2shuttle.cn'
+  - '+.bang-dream.com'
